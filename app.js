@@ -28,7 +28,7 @@ bot.on('message', msg => {
    channel.send(embed);
   });
 
-bot.login("NDg5NzQxMTMyOTc3Mjc0ODgw.Dn4MBg.hv68aD_GWDh0uO_m1_rZuWC7gAY")
+bot.login("Token")
 
 
 
